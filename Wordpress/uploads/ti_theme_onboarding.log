@@ -1,0 +1,19 @@
+[21/Sep/2022:08:21:41] (I): WordPress Instance Info:
+[21/Sep/2022:08:21:41] (I): Home URL : http://127.0.0.1/wordpress
+[21/Sep/2022:08:21:41] (I): Site URL : http://127.0.0.1/wordpress
+[21/Sep/2022:08:21:41] (I): WordPress Version : 6.0.2
+[21/Sep/2022:08:21:41] (I): Onboarding Version : 1.1.26
+[21/Sep/2022:08:21:41] (I): Multisite : No
+[21/Sep/2022:08:21:41] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6
+[21/Sep/2022:08:21:41] (I): PHP Version : 8.1.6
+[21/Sep/2022:08:21:41] (I): HTTPS : No
+[21/Sep/2022:08:21:41] (I): PHP Max Execution Time : 120
+[21/Sep/2022:08:21:41] (I): PHP Max Input Vars : 1000
+[21/Sep/2022:08:21:41] (I): Max Upload Size : 41943040
+[21/Sep/2022:08:21:41] (I): Plugins:
+[21/Sep/2022:08:21:41] (I): [PLUGIN] Classic Editor : v1.6.2 (Contributeurs et contributrices WordPress)
+[21/Sep/2022:08:21:41] (I): [PLUGIN] Contact Form 7 : v5.6.3 (Takayuki Miyoshi)
+[21/Sep/2022:08:21:41] (I): [PLUGIN] Map Block for Google Maps : v1.32 (WebFactory Ltd)
+[21/Sep/2022:08:21:41] (I): [PLUGIN] Photo Gallery : v1.7.4 (Photo Gallery Team)
+[21/Sep/2022:08:21:41] (I): [PLUGIN] SVG Support : v2.5.1 (Benbodhi)
+[21/Sep/2022:08:21:41] (I): [PLUGIN] Templates Patterns Collection : v1.1.26 (ThemeIsle)
